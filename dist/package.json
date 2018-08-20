@@ -1,0 +1,27 @@
+{
+    "name": "stock-autobackup",
+    "version": "1.0.0",
+    "description": "Stock Auto Backup",
+    "main": "dist/bundle.js",
+    "bin": "dist/bundle.js",
+    "keywords": [
+        "bundle"
+    ],
+    "author": "riefive",
+    "license": "ISC",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "faker": "^4.1.0",
+        "inquirer": "^6.1.0",
+        "joi": "^13.6.0",
+        "jsonwebtoken": "^8.3.0",
+        "lodash": "^4.17.10",
+        "moment": "^2.22.2",
+        "mysql2": "^1.6.1",
+        "nanotimer": "^0.3.15",
+        "papaparse": "^4.6.0",
+        "sequelize": "^4.38.0",
+        "winston": "^3.0.0",
+        "winston-daily-rotate-file": "^3.3.1"
+    }
+}
