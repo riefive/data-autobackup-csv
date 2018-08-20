@@ -27,8 +27,7 @@ Bundling App with babel, webpack & pkg.
 - **npm run main:dist** => running node dist/app.js
 
 ## Use the Project
-- $ git clone https://github.com/riefive/node-bundle-starter.git [target-name]
-- $ cd [target-name]
-- $ npm install
-- $ npm start
-- $ npm run server
+- git clone https://github.com/riefive/data-autobackup-csv.git [target-name]
+- cd [target-name]
+- npm install
+- npm start
